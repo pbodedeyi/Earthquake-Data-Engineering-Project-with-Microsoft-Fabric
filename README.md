@@ -45,3 +45,6 @@ To get started with this project, downalod the notebooks in the repository and f
 - Fabric Administrator (or access to individual with Admin account).
 - Familiarity with Python, Spark, and basic data engineering concepts.
 - Basic Power BI skills.
+
+#### The YouTube link below:
+ - https://www.youtube.com/watch?v=Av44Nrhl05s
